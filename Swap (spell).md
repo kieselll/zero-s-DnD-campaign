@@ -60,6 +60,10 @@ Strong targets: higher DC
 
 **Reflex Swap:** quick swap can now redirect projectiles sent at him by swapping them
 
+#### **Lv16**
+
+**Greater Eyesight:** double the range of **Swap** and **Quick Swap**
+
 #### **Lv14**
 
 **Memory:** remember a item/creature and be able to swap them without needing a line of sight 
